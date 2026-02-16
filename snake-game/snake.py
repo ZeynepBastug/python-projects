@@ -18,7 +18,7 @@ class Snake():
         for position in STARTING_POSITION:
             self.add_snake(position)
 
-    def add_snake(self, position):
+
         snake = Turtle("square")
         snake.color("orange")
         snake.penup()
