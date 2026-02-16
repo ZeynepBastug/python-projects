@@ -21,3 +21,4 @@ screen.onkey(left_paddle.go_down, "s")
 
 
 screen.exitonclick()
+
