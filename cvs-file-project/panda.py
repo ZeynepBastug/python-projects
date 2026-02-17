@@ -55,4 +55,3 @@ data_dict2 = {
 data = panda.DataFrame(data_dict2)
 print(data)
 data.to_csv("new_data.csv")
-
